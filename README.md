@@ -16,5 +16,5 @@ A selection of end-to-end data analysis projects using Power BI. Each dashboard 
 4. [Financial Transactions](https://app.powerbi.com/view?r=eyJrIjoiZGZkODRiMmYtMWRhOS00ODU3LWJhZWYtNGE5NzJhZjM2MzkyIiwidCI6ImJlNDY1NWRmLWFjNzMtNDAxZi1hN2FlLTE5OGMzYjcyZDBjNiIsImMiOjh9)  
    Classification and analysis of financial transaction categories.
 
-5. [Dental Data (California)](https://app.powerbi.com/reportEmbed?reportId=40b4f59f-e04e-4263-af49-a8a9687caefd&autoAuth=true&ctid=be4655df-ac73-401f-a7ae-198c3b72d0c6)  
+5. [Dental Data (California)](https://app.powerbi.com/view?r=eyJrIjoiZDMxNDI4OWEtZTJhYi00YjlhLTg1YjQtZGMzNjE0OWE2M2VjIiwidCI6ImJlNDY1NWRmLWFjNzMtNDAxZi1hN2FlLTE5OGMzYjcyZDBjNiIsImMiOjh9)  
    Public health statistics on dental services by region and age group.

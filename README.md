@@ -18,3 +18,6 @@ A selection of end-to-end data analysis projects using Power BI. Each dashboard 
 
 5. [Dental Data (California)](https://app.powerbi.com/view?r=eyJrIjoiZDMxNDI4OWEtZTJhYi00YjlhLTg1YjQtZGMzNjE0OWE2M2VjIiwidCI6ImJlNDY1NWRmLWFjNzMtNDAxZi1hN2FlLTE5OGMzYjcyZDBjNiIsImMiOjh9)  
    Public health statistics on dental services by region and age group.
+
+6. [ASHRAE Energy Predictor](https://app.powerbi.com/view?r=eyJrIjoiZDU3MDMzZTEtNDJmYy00NTBkLWIxNGMtMWZiNjBkNmU2NzhkIiwidCI6ImJlNDY1NWRmLWFjNzMtNDAxZi1hN2FlLTE5OGMzYjcyZDBjNiIsImMiOjh9)  
+   Energy consumption analysis and ML evaluation results visualization.

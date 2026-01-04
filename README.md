@@ -24,3 +24,6 @@ A selection of end-to-end data analysis projects using Power BI. Each dashboard 
 
 7. [Fraud vs. Sustainability (ESG)](https://app.powerbi.com/reportEmbed?reportId=af519aa7-97f1-4b86-b0ba-7d7d4eabadcb&autoAuth=true&ctid=be4655df-ac73-401f-a7ae-198c3b72d0c6)  
    Crossing data from fraud transactions and companies sustainability, creating an own API & local SQL DB.
+
+8. [Retail Analytics Project](https://app.powerbi.com/view?r=eyJrIjoiMjVhYjdlYmMtMjJlYi00Y2MzLWExNWItNWE4YjI5NjAxOWI3IiwidCI6ImJlNDY1NWRmLWFjNzMtNDAxZi1hN2FlLTE5OGMzYjcyZDBjNiIsImMiOjh9)  
+   End-to-end retail data platform with SSMS (csv, json), API Flask, Azure, Apache Atlas and Power BI
